@@ -73,23 +73,18 @@ patients
 
 ## Project Structure
 
-Health_prediction_System/
-
+Health_Prediction_App
+│
 ├── app.py
-
 ├── database.sql
-
 ├── requirements.txt
-
 ├── README.md
-
+├── static/
+│   └── style.css
 └── templates/
-
-    ├── index.html
-
-    ├── add_patient.html
-
-    └── edit_patient.html
+    ├── index.html
+    ├── add_patient.html
+    └── edit_patient.html
 
 ---
 
