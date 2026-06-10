@@ -73,18 +73,22 @@ patients
 
 ## Project Structure
 
-Health_Prediction_App
+```text
+Health_Prediction_App/
 │
 ├── app.py
 ├── database.sql
 ├── requirements.txt
 ├── README.md
+│
 ├── static/
 │   └── style.css
+│
 └── templates/
     ├── index.html
     ├── add_patient.html
     └── edit_patient.html
+```
 
 ---
 
@@ -143,4 +147,4 @@ Tanvi Jain
 M.Sc. Computer Science
 
 
->>>>>>> e68682f43dc9622e05a7445fb801c13abb7f3228
+
