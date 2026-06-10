@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-# Health Prediction System
+# Health Prediction App
 
 ## Project Overview
 
